@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I’m currently learnin MEAN and MERN
+And I´m also studying ATIC in the UNLP
 <!--
 **QuintanaJulian/QuintanaJulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
