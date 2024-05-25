@@ -4,9 +4,10 @@
 - Actualmente estoy estudiando las carreras de:
   -  ATIC	-	Analista en Tecnologia de la Informacion y Comunicacion
   -  APU		-	Analista Programador Universitario
-    
-- Estoy orientado mas que nada a la rama de Web Design
-  -  Principalmente MEAN y MERN.
+
+###
+- Estoy orientado mas que nada a Web Development.
+  -  Principalmente uso MEAN y MERN.
 
 
 <h4 align="center">Lenguajes y Herramientas:</h4>
