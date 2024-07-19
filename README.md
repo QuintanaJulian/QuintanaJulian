@@ -1,4 +1,4 @@
-<H1 align="center">¡¡Buenas!!</H1>
+<H1 align="center">Buenas!!</H1>
 
 - Soy actual estudiante de la [UNLP](https://www.info.unlp.edu.ar).
 - Actualmente estoy estudiando las carreras de:
@@ -40,13 +40,13 @@
 <h3 align="center">Primer Año</h3>
 <div align="center">
 	<p align="center">Primer cuatrimestre - 2022</p>
-	<a href="https://github.com/QuintanaJulian/UNLP/tree/main/1er%20a%C3%B1o%20-%202022/1er%20cuatri/CADP%20-%20Conceptos%20de%20Algoritmos%2C%20Datos%20y%20Programas">CADP</a>
-	<a href="https://github.com/QuintanaJulian/UNLP/tree/main/1er%20a%C3%B1o%20-%202022/1er%20cuatri/MATE%201%20-%20Matematica%201">MATE 1</a>
-	<a href="https://github.com/QuintanaJulian/UNLP/tree/main/1er%20a%C3%B1o%20-%202022/1er%20cuatri/OC%20-%20Organizacion%20de%20Computadoras">OC</a>
+	<a href="https://github.com/QuintanaJulian/CADP---Conceptos-de-Algoritmos-Datos-y-Programas">CADP</a>
+	<a href="https://github.com/QuintanaJulian/MATE-1---Matematica-1">MATE 1</a>
+	<a href="https://github.com/QuintanaJulian/OC---Organizacion-de-Computadoras">OC</a>
  	<p align="center">Segundo cuatrimestre - 2022</p>
-	<a href="https://github.com/QuintanaJulian/UNLP/tree/main/1er%20a%C3%B1o%20-%202022/2ndo%20cuatri/AC%20-%20Arquitectura%20de%20Computadoras">AC</a>
-	<a href="https://github.com/QuintanaJulian/UNLP/tree/main/1er%20a%C3%B1o%20-%202022/2ndo%20cuatri/MATE%202%20-%20Matematica%202">MATE 2</a>
-	<a href="https://github.com/QuintanaJulian/UNLP/tree/main/1er%20a%C3%B1o%20-%202022/2ndo%20cuatri/Taller%20de%20Programacion">Taller de Programacion</a>
+	<a href="https://github.com/QuintanaJulian/AC---Arquitectura-de-Computadoras">AC</a>
+	<a href="https://github.com/QuintanaJulian/MATE-2---Matematica-2">MATE 2</a>
+	<a href="https://github.com/QuintanaJulian/Taller-de-Programacion">Taller de Programacion</a>
 </div>
 <h2></h2>
 <h3 align="center">Segundo Año</h3>
