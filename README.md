@@ -52,23 +52,23 @@
 <h3 align="center">Segundo Año</h3>
 <div align="center">
 	<p align="center">Primer cuatrimestre - 2023</p>
-	<a href="https://github.com/QuintanaJulian/UNLP/tree/main/2ndo%20a%C3%B1o%20-%202023/1er%20cuatri/AyED%20-%20Algoritmos%20y%20Estucturas%20de%20Datos">AYED</a>
-	<a href="https://github.com/QuintanaJulian/UNLP/tree/main/2ndo%20a%C3%B1o%20-%202023/1er%20cuatri/FOD%20-%20Fundamentos%20de%20Organizacion%20de%20Datos">FOD</a>
-	<a href="https://github.com/QuintanaJulian/UNLP/tree/main/2ndo%20a%C3%B1o%20-%202023/1er%20cuatri/Seminario%20JS%20-%20JavaScript">Seminario JS</a>
+	<a href="https://github.com/QuintanaJulian/AyED---Algoritmos-y-Estucturas-de-Datos">AYED</a>
+	<a href="https://github.com/QuintanaJulian/FOD---Fundamentos-de-Organizacion-de-Datos">FOD</a>
+	<a href="https://github.com/QuintanaJulian/Seminario-JS---JavaScript">Seminario JS</a>
  	<p align="center">Segundo cuatrimestre - 2023</p>
-	<a href="https://github.com/QuintanaJulian/UNLP/tree/main/2ndo%20a%C3%B1o%20-%202023/2ndo%20cuatri/DBD%20-%20Desarollo%20de%20Base%20de%20Datos">DBD</a>
-	<a href="https://github.com/QuintanaJulian/UNLP/tree/main/2ndo%20a%C3%B1o%20-%202023/2ndo%20cuatri/IS1%20-%20Ingenieria%20Software%201">IS1</a>
-	<a href="https://github.com/QuintanaJulian/UNLP/tree/main/2ndo%20a%C3%B1o%20-%202023/2ndo%20cuatri/ISO%20-%20Introduccion%20a%20Sistemas%20Operativos">ISO</a>
-	<a href="https://github.com/QuintanaJulian/UNLP/tree/main/2ndo%20a%C3%B1o%20-%202023/2ndo%20cuatri/OO1%20-%20Orientacion%20a%20Objetos%201">OO1</a>
+	<a href="https://github.com/QuintanaJulian/DBD---Desarollo-de-Base-de-Datos">DBD</a>
+	<a href="https://github.com/QuintanaJulian/IS1---Ingenieria-Software-1">IS1</a>
+	<a href="https://github.com/QuintanaJulian/ISO---Introduccion-a-Sistemas-Operativos">ISO</a>
+	<a href="https://github.com/QuintanaJulian/OO1---Orientacion-a-Objetos-1">OO1</a>
 </div>
 
 <h2></h2>
 <h3 align="center">Tercer Año</h3>
 <div align="center">
 	<p align="center">Primer cuatrimestre - 2024</p>
-	<a href="https://github.com/QuintanaJulian/UNLP/tree/main/3er%20a%C3%B1o%20-%202024/1er%20cuatri/IS2%20-%20Ingenieria%20de%20Software%202">IS2</a>
-	<a href="https://github.com/QuintanaJulian/UNLP/tree/main/3er%20a%C3%B1o%20-%202024/1er%20cuatri/OO2%20-%20Orientacion%20a%20Objetos">OO2</a>
-	<a href="https://github.com/QuintanaJulian/UNLP/tree/main/3er%20a%C3%B1o%20-%202024/1er%20cuatri/PC%20-%20Programacion%20Concurrente">PC</a>
-	<a href="https://github.com/QuintanaJulian/UNLP/tree/main/3er%20a%C3%B1o%20-%202024/1er%20cuatri/RyC%20-%20Redes%20y%20Comunicacion">RyC</a>
+	<a href="https://github.com/QuintanaJulian/">IS2</a>
+	<a href="https://github.com/QuintanaJulian/">OO2</a>
+	<a href="https://github.com/QuintanaJulian/">PC</a>
+	<a href="https://github.com/QuintanaJulian/">RyC</a>
 </div>
 
